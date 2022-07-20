@@ -1,2 +1,2 @@
 # Longest-words-with-the-most-vowel
-Javascript exercise to extract by given condition
+Find the longest word in the sentence and if there are multiple words of the same length, choose one that has the highest number of vowels
